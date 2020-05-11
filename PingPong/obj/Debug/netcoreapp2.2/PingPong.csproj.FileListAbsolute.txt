@@ -1,0 +1,9 @@
+C:\Users\cronk\desktop\PingPong.Solution\pingpong\bin\Debug\netcoreapp2.2\PingPong.deps.json
+C:\Users\cronk\desktop\PingPong.Solution\pingpong\bin\Debug\netcoreapp2.2\PingPong.dll
+C:\Users\cronk\desktop\PingPong.Solution\pingpong\bin\Debug\netcoreapp2.2\PingPong.pdb
+C:\Users\cronk\desktop\PingPong.Solution\pingpong\obj\Debug\netcoreapp2.2\PingPong.csprojAssemblyReference.cache
+C:\Users\cronk\desktop\PingPong.Solution\pingpong\obj\Debug\netcoreapp2.2\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\cronk\desktop\PingPong.Solution\pingpong\obj\Debug\netcoreapp2.2\PingPong.AssemblyInfoInputs.cache
+C:\Users\cronk\desktop\PingPong.Solution\pingpong\obj\Debug\netcoreapp2.2\PingPong.AssemblyInfo.cs
+C:\Users\cronk\desktop\PingPong.Solution\pingpong\obj\Debug\netcoreapp2.2\PingPong.dll
+C:\Users\cronk\desktop\PingPong.Solution\pingpong\obj\Debug\netcoreapp2.2\PingPong.pdb
