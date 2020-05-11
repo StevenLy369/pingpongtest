@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cronk\\desktop\\PingPong.Solution\\PingPong.Tests\\PingPong.Tests.csproj": {}
+    "C:\\Users\\Steven\\Desktop\\epi\\c#\\pingpongtest\\PingPong.Tests\\PingPong.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cronk\\desktop\\PingPong.Solution\\PingPong.Tests\\PingPong.Tests.csproj": {
+    "C:\\Users\\Steven\\Desktop\\epi\\c#\\pingpongtest\\PingPong.Tests\\PingPong.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cronk\\desktop\\PingPong.Solution\\PingPong.Tests\\PingPong.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Steven\\Desktop\\epi\\c#\\pingpongtest\\PingPong.Tests\\PingPong.Tests.csproj",
         "projectName": "PingPong.Tests",
-        "projectPath": "C:\\Users\\cronk\\desktop\\PingPong.Solution\\PingPong.Tests\\PingPong.Tests.csproj",
-        "packagesPath": "C:\\Users\\cronk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cronk\\desktop\\PingPong.Solution\\PingPong.Tests\\obj\\",
+        "projectPath": "C:\\Users\\Steven\\Desktop\\epi\\c#\\pingpongtest\\PingPong.Tests\\PingPong.Tests.csproj",
+        "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Steven\\Desktop\\epi\\c#\\pingpongtest\\PingPong.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\cronk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Steven\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -28,8 +28,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\cronk\\desktop\\PingPong.Solution\\PingPong\\PingPong.csproj": {
-                "projectPath": "C:\\Users\\cronk\\desktop\\PingPong.Solution\\PingPong\\PingPong.csproj"
+              "C:\\Users\\Steven\\Desktop\\epi\\c#\\pingpongtest\\PingPong\\PingPong.csproj": {
+                "projectPath": "C:\\Users\\Steven\\Desktop\\epi\\c#\\pingpongtest\\PingPong\\PingPong.csproj"
               }
             }
           }
@@ -63,33 +63,27 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     },
-    "C:\\Users\\cronk\\desktop\\PingPong.Solution\\PingPong\\PingPong.csproj": {
+    "C:\\Users\\Steven\\Desktop\\epi\\c#\\pingpongtest\\PingPong\\PingPong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cronk\\desktop\\PingPong.Solution\\PingPong\\PingPong.csproj",
+        "projectUniqueName": "C:\\Users\\Steven\\Desktop\\epi\\c#\\pingpongtest\\PingPong\\PingPong.csproj",
         "projectName": "PingPong",
-        "projectPath": "C:\\Users\\cronk\\desktop\\PingPong.Solution\\PingPong\\PingPong.csproj",
-        "packagesPath": "C:\\Users\\cronk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cronk\\desktop\\PingPong.Solution\\PingPong\\obj\\",
+        "projectPath": "C:\\Users\\Steven\\Desktop\\epi\\c#\\pingpongtest\\PingPong\\PingPong.csproj",
+        "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Steven\\Desktop\\epi\\c#\\pingpongtest\\PingPong\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\cronk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Steven\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -119,16 +113,10 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }
